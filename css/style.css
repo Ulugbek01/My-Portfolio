@@ -890,9 +890,7 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
-# Contact
---------------------------------------------------------------*/
+/* Contact */
 .contact .info {
   width: 100%;
   background: #fff;
@@ -926,6 +924,9 @@ section {
 .contact .info .email,
 .contact .info .phone {
   margin-top: 40px;
+}
+.contact .info a {
+  color: #728394;
 }
 .contact .info .email:hover i,
 .contact .info .address:hover i,
@@ -1017,9 +1018,7 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
-# Footer
---------------------------------------------------------------*/
+/* Footer */
 #footer {
   background: #f7f8f9;
   color: #45505b;
